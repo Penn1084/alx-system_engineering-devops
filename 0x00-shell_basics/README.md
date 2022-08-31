@@ -1,1 +1,1 @@
-command that lists all files and directories in a directory seperated by commas
+Create a magic file school.mgc that can be used with the command file 
