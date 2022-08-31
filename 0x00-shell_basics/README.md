@@ -1,1 +1,1 @@
-Create a script that creates the directories welcome/, welcome/to/ and welcome/to
+command that lists all files and directories in a directory seperated by commas
