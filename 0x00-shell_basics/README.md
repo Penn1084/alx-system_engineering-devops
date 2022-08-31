@@ -1,1 +1,1 @@
-0x00-shell_basics
+Display current directory contents in a long format
