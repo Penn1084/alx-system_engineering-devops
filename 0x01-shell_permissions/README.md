@@ -8,3 +8,4 @@
  chmod a+x hello is a script that adds execution permission to the owner
  chmod 007 hello is  a script that sets the permission to a file
  chmod 753 hello is  a script that displays the details of a file 
+ "chmod --reference=olleh hello" is a script that replicates a file details" 
