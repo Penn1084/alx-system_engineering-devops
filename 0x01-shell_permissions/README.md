@@ -10,3 +10,4 @@
  chmod 753 hello is  a script that displays the details of a file 
  "chmod --reference=olleh hello" is a script that replicates a file details" 
  "chmod a+X *" is a script that adds execute permissions to all subdirectories of the current directory
+ "mkdir -m 751 dir_holberton" is a script that gives permissions 751  " 
