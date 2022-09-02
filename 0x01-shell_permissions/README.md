@@ -15,3 +15,4 @@
  "chown vincent:staff *" is a script that changes the group owner of a file" 
  "a script that changes the owner and the group owner of _hello to vincent and staff respectively" 
  "a script that changes the owner of the file hello to betty only if it is owned by the guillaume
+ "Write a script that will play the StarWars IV episode in the terminal 
