@@ -6,3 +6,4 @@
  chmod u+x hello is a script that adds execute permission to the file owner
  chmod ug+x,o+r hello is script that adds execute permission to the owner,grou
  chmod a+x hello is a script that adds execution permission to the owner
+ chmod 007 hello is  a script that sets the permission to a file
