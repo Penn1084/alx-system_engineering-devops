@@ -13,3 +13,4 @@
  "mkdir -m 751 dir_holberton" is a script that gives permissions 751  " 
  "chgrp school hello" is a script that changes the group owner of a file" 
  "chown vincent:staff *" is a script that changes the group owner of a file" 
+ "a script that changes the owner and the group owner of _hello to vincent and staff respectively" 
