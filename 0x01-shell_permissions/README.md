@@ -9,3 +9,4 @@
  chmod 007 hello is  a script that sets the permission to a file
  chmod 753 hello is  a script that displays the details of a file 
  "chmod --reference=olleh hello" is a script that replicates a file details" 
+ "chmod a+X *" is a script that adds execute permissions to all subdirectories of the current directory
