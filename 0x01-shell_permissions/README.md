@@ -4,3 +4,4 @@
  chown betty hello is a script that changes the owner of the file
  touch hello is a script that creates an empty file e.g hello.
  chmod u+x hello is a script that adds execute permission to the file owner
+ chmod ug+x,o+r hello is script that adds execute permission to the owner,grou
