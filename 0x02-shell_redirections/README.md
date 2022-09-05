@@ -20,3 +20,4 @@ grep -v bin /etc/passwd a script thatDisplay all the lines in the file /etc/pass
 grep ^[[:alpha:]] /etc/ssh/sshd_config a script that Display all lines of the file /etc/ssh/sshd_config starting with a letter.
 tr A Z | tr c e a script that Replace all characters A and c from input to Z and e respectively.
 rev a script that reverse its input.
+tr -d C | tr -d c a script that removes all letters c and C from input.
