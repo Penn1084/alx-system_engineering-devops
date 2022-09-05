@@ -21,3 +21,4 @@ grep ^[[:alpha:]] /etc/ssh/sshd_config a script that Display all lines of the fi
 tr A Z | tr c e a script that Replace all characters A and c from input to Z and e respectively.
 rev a script that reverse its input.
 tr -d C | tr -d c a script that removes all letters c and C from input.
+cut -d : -f 1,6 /etc/passwd | sort a script that displays all users and their home directories, sorted by users.
