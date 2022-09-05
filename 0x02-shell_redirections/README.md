@@ -18,3 +18,4 @@ grep -c bin /etc/passwd a script that Display the number of lines that contain t
 grep root /etc/passwd --after-context=3 a script that Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
 grep -v bin /etc/passwd a script thatDisplay all the lines in the file /etc/passwd that do not contain the pattern “bin”.
 grep ^[[:alpha:]] /etc/ssh/sshd_config a script that Display all lines of the file /etc/ssh/sshd_config starting with a letter.
+tr A Z | tr c e a script that Replace all characters A and c from input to Z and e respectively.
