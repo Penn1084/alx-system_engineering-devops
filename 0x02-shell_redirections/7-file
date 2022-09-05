@@ -1,2 +1,2 @@
 #!/bin/bashal
-echo "Best School" | cat > '\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)'
+echo "Best School"  cat > '\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)'
