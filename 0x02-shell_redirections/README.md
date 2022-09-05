@@ -2,3 +2,4 @@ Write a script that prints “Hello, World”, followed by a new line to the sta
 "(Ôo)' is a script that displays a confused smiley "(Ôo)
  "cat /etc/passwd" s a script that Displays the content of the /etc/passwd file
 cat /etc/passwd /etc/hosts is a script that Displays the content of /etc/passwd and /etc/hosts
+tail -10 /etc/passwd Display the last 10 lines of /etc/passwd
