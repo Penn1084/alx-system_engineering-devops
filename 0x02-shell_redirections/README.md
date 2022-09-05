@@ -8,3 +8,4 @@ head -n 3 iacta | tail -n 1 a script that displays the third line of the file ia
  'echo "Best School" > '\*\\'\''"Best School"\'\''\\*$\?\*\*\*\*\*:)'
  a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.'
 ls -la > ls_cwd_content  a script that writes into the file ls_cwd_content the result of the command ls -la.
+tail -1 iacta >> iacta  a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.'
