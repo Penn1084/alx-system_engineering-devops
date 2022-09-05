@@ -11,3 +11,4 @@ ls -la > ls_cwd_content  a script that writes into the file ls_cwd_content the r
 find -name "*.js" -type f -delete  a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.'
 tail -1 iacta >> iacta  a script that duplicates the last line of the file iacta
 find -mindepth 1 -type d | wc -l  a script that counts the number of directories and sub-directories in the current directory.
+ls -t | head -10  a script that displays the 10 newest files in the current directory.
