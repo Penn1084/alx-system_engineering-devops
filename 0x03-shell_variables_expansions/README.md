@@ -5,3 +5,4 @@ echo $PATH | tr : n | wc -l a script that counts the number of directories in th
 printenv a script that lists environment variables
 set a script that lists all local variables and environment variables, and functions.
 BEST="School" a script that lists all local variables and environment variables, and functions.
+export School="BEST" a script that creates a new global variable.
