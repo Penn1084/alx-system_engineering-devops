@@ -15,3 +15,4 @@ printf "%.2f\n" $NUM a script that prints a number with two decimal places, foll
 printf %xn $DECIMAL a script that converts a number from base 10 to base 16.
 tr A-Za-z N-ZA-Mn-za-m a script that encodes and decodes text using the rot13 encryption. Assume ASCII.
 tr A-Za-z N-ZA-Mn-za-m a script that prints every other line from the input, starting with the first line.
+printf %on $(( $((5#$(echo $STIR | tr stir. 01234))) + $((5#$(echo $WATER | tr water 01234))) )) | tr 01234567 bestchol a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result
