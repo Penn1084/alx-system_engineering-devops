@@ -25,3 +25,4 @@ cut -d : -f 1,6 /etc/passwd | sort a script that displays all users and their ho
 find . -empty -printf "%f\n" a command that finds all empty files and directories in the current directory and all sub-directories.
 find . -name "*.gif" -type f -printf "%f\n" | rev | cut -d. -f2- | rev | LC_ALL=C sort -f a script that lists all the files with a .gif extension in the current directory and all its sub-directories.
 echo $(cut -c1 | tr -d " \n") a script that decodes acrostics that use the first letter of each line.
+tail -n +2 | sort | cut -f1 | uniq -c | sort -g -r | head -11 | tr -s " " | cut -d" " -f3 a script that decodes acrostics that use the first letter of each line.
